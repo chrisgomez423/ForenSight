@@ -1,6 +1,3 @@
-README.txt
-Readme.md
-
 # 🕵️‍♂️ ForenSight (Python)
 
 ForenSight is a forensic file analysis tool designed for malware triage, incident response, and threat hunting.  
