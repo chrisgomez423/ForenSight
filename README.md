@@ -128,8 +128,6 @@ ForenSight/
 
 Place YARA rules in the rules/ directory.
 
-Example:
-
 python3 forensight.py file.bin --yara rules/
 
 ⚠️ Disclaimer
@@ -146,6 +144,3 @@ MIT License — see LICENSE
 Chris Gomez
 Cybersecurity | Malware Analysis | Detection Engineering
 GitHub: https://github.com/chrisgomez423
-clean up formatting for GitHub rendering
-
-Just tell me 👌
