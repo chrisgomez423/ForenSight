@@ -1,3 +1,6 @@
+README.txt
+Readme.md
+
 # 🕵️‍♂️ ForenSight (Python)
 
 ForenSight is a forensic file analysis tool designed for malware triage, incident response, and threat hunting.  
@@ -57,5 +60,3 @@ It identifies the true nature of files by analyzing content rather than extensio
 ```bash
 git clone https://github.com/chrisgomez423/ForenSight.git
 cd ForenSight
-
-
