@@ -1,7 +1,7 @@
 # 🕵️‍♂️ ForenSight (Python)
 
-**ForenSight** is a forensic file analysis tool designed for malware triage, incident response, and threat hunting.  
-It identifies the *true nature* of files by analyzing content rather than extensions, validates structure, detects polyglots, extracts embedded artifacts, and supports YARA-based detection.
+ForenSight is a forensic file analysis tool designed for malware triage, incident response, and threat hunting.  
+It identifies the true nature of files by analyzing content rather than extensions, validates structure, detects polyglots, extracts embedded artifacts, and supports YARA-based detection.
 
 ---
 
@@ -45,7 +45,7 @@ It identifies the *true nature* of files by analyzing content rather than extens
 ---
 
 ## 📦 Requirements
-- Python **3.9+**
+- Python 3.9+
 - Linux (Kali, Ubuntu, Debian, Arch)
 - Optional: `yara-python`
 
@@ -57,4 +57,5 @@ It identifies the *true nature* of files by analyzing content rather than extens
 ```bash
 git clone https://github.com/chrisgomez423/ForenSight.git
 cd ForenSight
+
 
